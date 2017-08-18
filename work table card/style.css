@@ -1,0 +1,53 @@
+.demo-card-square.mdl-card {
+  width: 320px;
+  height: 320px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+  
+}
+.demo-card-square > .mdl-card__title {
+  color: #fff;
+  background:
+    url('images/html5.png') bottom right no-repeat #46B6AC;
+    background-size: contain;
+}
+
+
+.page_content{
+
+  margin-left: 15px;
+}
+
+body {
+  
+  background: #fafafa;
+  position: relative;
+}
+
+.demo-card-square {
+	float: left;
+}
+
+.mdl-card__supporting-text{
+	height: 54px;
+}
+
+.video{
+  width: 65%;
+  margin: auto;
+  
+}
+
+.cards{
+  margin: auto;
+}
+
+
+
+
+
+
+
+
+
